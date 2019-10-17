@@ -1,5 +1,2 @@
-# arcolinux-iso
+# ArcoLinuxIso Carli-2
 
-Arch Carli-1
-
-#stable

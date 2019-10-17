@@ -1,8 +1,8 @@
 #!/bin/bash
-
 #carli
-sudo chgrp -R root airootfs/
 sudo chown -R root airootfs/
+sudo chgrp -R root airootfs/
+
 set -e -u
 
 iso_name=archlinux
